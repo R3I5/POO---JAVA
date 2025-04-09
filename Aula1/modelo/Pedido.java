@@ -1,4 +1,4 @@
-package Aula1;
+package Aula1.modelo;
 
 public class Pedido {
     
